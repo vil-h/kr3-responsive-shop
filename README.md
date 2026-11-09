@@ -44,6 +44,6 @@
 
 Логотипы из [Lobe Icons](https://github.com/lobehub/lobe-icons); источники и лицензия в `images/`.
 
-Репозиторий: https://github.com/vil-h/frontend-shop/tree/kr3-responsive
+**Репозиторий:** https://github.com/vil-h/kr3-responsive-shop
 
-Методичка предусматривает отдельный репозиторий `kr3-responsive-shop`, но по выбранной схеме работа размещена в отдельной ветке.
+После включения GitHub Pages для ветки `main` сайт будет доступен по адресу: https://vil-h.github.io/kr3-responsive-shop/
